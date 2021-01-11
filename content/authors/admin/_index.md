@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiang Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computational Biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Weill Cornell Medical College Melnick Lab
+  url: https://melnicklab.weill.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently working as a bioinformatician for Melnick Lab in analyzing DLBCL data. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Chromatin Biology
+- Epigeneics
+- Enhancer and Promoter
 
 # Education to show in About widget
 education:
